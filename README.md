@@ -7,4 +7,4 @@ This algorithm was written primarily with portuguese terms and functions names, 
 - codificar: receives a string and the frequency tree and returns the compressed string.
 - decodificar: receives compressed string and its frequency tree and returns the decompressed string.
 - compactaArquivo: it will read a file, compress it and save both the compressed content and frequency tree to a file called teste.txt
-- lerArquivoCompactado: it will read a decompress a file compressed by this algorithm
+- lerArquivoCompactado: it will decompress a file compressed by this algorithm
